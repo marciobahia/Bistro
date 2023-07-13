@@ -818,7 +818,7 @@ body.nav-active { overflow: hidden; }
 }
 
 .hero .slider-item.active .slider-bg {
-  animation: smoothScale 7s linear forwards;
+  animation: smoothScale 3s linear forwards;
 }
 
 @keyframes smoothScale {
@@ -1156,6 +1156,7 @@ body.nav-active { overflow: hidden; }
   font-weight: var(--weight-bold);
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing-3);
+
 }
 
 
